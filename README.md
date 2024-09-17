@@ -16,6 +16,19 @@ Customer segmentation is a critical process for businesses to tailor marketing s
 - NumPy 🔢
 - Matplotlib 📊
 - Seaborn 🖼️
+
+## 🔍 Dataset Information
+The mall customers dataset used in this project is sourced from Kaggle and contains data on customer demographics, annual income, and spending habits. 📊
+Key columns include:
+- CustomerID: Unique ID for each customer.
+- Age: Age of the customer.
+- Annual Income: Income of the customer in thousands of dollars. 💵
+- Spending Score: A score assigned based on how much the customer spends. 💳
+
+![Dataset](data.png)
+
+
+
 ## 🚀 How to Run the Project
 1. Clone the Repository:
 ```
@@ -37,16 +50,6 @@ The script will generate visual plots to show how customers are segmented into d
 - 3D Plot: For a more detailed view, this plot includes an additional dimension of customer behavior. 📈🔍
 
 ![Customer Clusters](clusters.png)
-
-## 🔍 Dataset Information
-The mall customers dataset used in this project is sourced from Kaggle and contains data on customer demographics, annual income, and spending habits. 📊
-Key columns include:
-- CustomerID: Unique ID for each customer.
-- Age: Age of the customer.
-- Annual Income: Income of the customer in thousands of dollars. 💵
-- Spending Score: A score assigned based on how much the customer spends. 💳
-
-![Dataset](data.png)
 
 ## 🎯 Insights from Customer Clusters
 - High Income, High Spending: These are the premium customers, spending a lot and bringing in high value. 🎩💼
